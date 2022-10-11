@@ -14,6 +14,6 @@ public class Exercise2 {
 		} else {
 			System.out.println("Both numbers are different.");
 		}
-		sc.close();
+		sc.close(); //Closing scanner
 	}
 }
